@@ -1,0 +1,13 @@
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.exe
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.deps.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\ChatTCP\ChatServer\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.genruntimeconfig.cache

@@ -14,12 +14,12 @@ namespace ChatServer
         public NetworkStream Stream { get; set; }
         string username;
 
-        public ConnectedClient(TcpClient tcpClient, Server serverObject)
+        public ConnectedClient(TcpClient tcpClient, Server serverObj)
         {
             Id = Guid.NewGuid().ToString();
             client = tcpClient;
-            server = serverObject;
-            serverObject.AddConnection(this);
+            server = serverObj;
+            serverObj.AddConnection(this);
         }
 
         public void Start()
@@ -75,7 +75,7 @@ namespace ChatServer
             do
             {
                 bytes = Stream.Read(data, 0, data.Length);
-                builder.Append(Encoding.Unicode.GetString(data, 0, bytes));
+                builder.Append(Encoding.UTF8.GetString(data, 0, bytes));
             }while (Stream.DataAvailable);
 
             return builder.ToString();
